@@ -1,0 +1,4 @@
+Top-Left: 318, 517
+Top-Right: 1163, 79
+B-Right: 1719, 511
+B-Left: 750, 845
